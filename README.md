@@ -6,3 +6,4 @@ This repository contains all of the notes taken by [Mo Mo](https://github.com/Mo
 ## Table of Contents
 * [Week 1](/Week_1/)
   * [Day1](/Week_1/Day_1/)
+  * [Day2](/Week_1/Day_2/)
